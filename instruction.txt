@@ -1,0 +1,16 @@
+Activity 
+Activity By Pair
+ Grocery List
+Grocery list Page 
+Create Button
+Form: Item, Quantity, Priority(1- very important, 2- important, 3 - if have extra)
+Table
+List of Item to be purchased(columns: product, quantity, priority)
+Remove Button
+Edit Button
+API
+/item/create-PUT
+/item/retrieve/all - GET-inig refresh
+/item/retrieve/:id -GET-inig edit
+/item/update - POST
+/item/delete - delete
